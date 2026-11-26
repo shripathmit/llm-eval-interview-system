@@ -1,6 +1,11 @@
 # LLM Evaluation Interview Questions & Answers (2026) - LLM Eval Interview Prep
 
-**Interview questions and answers on LLM evaluation for AI engineers, ML engineers, and GenAI/LLM developers. Covers all 18 eval types, system design scenarios, LLM judges, human evaluation, golden sets, and the production failure modes that come up in real LLM engineering interviews.**
+![Questions](https://img.shields.io/badge/Questions-144-blue)
+![Eval Types](https://img.shields.io/badge/Eval%20Types-18-green)
+![Concepts](https://img.shields.io/badge/Concepts-23-orange)
+![Labs](https://img.shields.io/badge/Python%20Labs-7-purple)
+
+**144 interview questions and answers on LLM evaluation for AI engineers, ML engineers, and GenAI/LLM developers. Covers all 18 eval types, system design scenarios, LLM judges, human evaluation, golden sets, and the production failure modes that come up in real LLM engineering interviews.**
 
 ⭐ **Star this repo** if it helps your interview prep - it keeps the project growing.
 
